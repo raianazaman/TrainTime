@@ -8,11 +8,11 @@ Used Firebase to host a globally available set of data that is retrieved and man
 to provide up-to-date information about various trains' arrival times and minutes to arrival.
 
 Technology Used:
-
 Javascript
 jQuery
 HTML5
 CSS
 Firebase
 Moment.js
+
 https://raianazaman.github.io/TrainTime/
