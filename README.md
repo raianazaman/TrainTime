@@ -1,6 +1,6 @@
 # TrainTime
 
-I created a Firebase backed train schedule application
+I created a Firebase backed train schedule application which accepts user input to add new train name, start time and frequency to schedule. Displays schedule in repeating table with next arrival based on current time and frequency of train stops. Stores Train info in Firebase for data persistence and retreives information from database on load. Schedules refresh every minute to reflect updated arrival information. 
 
 Used HTML, CSS, and jQuery to render the schedule and admin panel on the web page.
 
